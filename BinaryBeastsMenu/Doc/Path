@@ -1,0 +1,23 @@
+Menu : image/Menu/Buttons/
+Animated Menu : image/Menu/ColoredButtons/
+IMG : image/
+FONT : font/
+Hero Move Right : image/HeroRS
+Hero Move Left : image/HeroLS
+
+
+
+
+
+image/Menu/Buttons/Play
+image/Menu/Buttons/Settings
+image/Menu/Buttons/Scoreboard
+image/Menu/Buttons/Credits
+image/Menu/Buttons/Exit
+//A
+image/Menu/Buttons/PlayA
+image/Menu/Buttons/SettingsA
+image/Menu/Buttons/ScoreboardA
+image/Menu/Buttons/CreditsA
+image/Menu/Buttons/ExitA
+
