@@ -1,4 +1,4 @@
-var searchData=
-[
-  ['temps_24',['temps',['../structtemps.html',1,'']]]
-];
+var searchData =
+    [
+        ['temps_24', ['temps', ['../structtemps.html', 1, '']]]
+    ];

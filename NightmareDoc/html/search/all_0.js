@@ -1,4 +1,4 @@
-var searchData=
-[
-  ['background_0',['Background',['../structBackground.html',1,'']]]
-];
+var searchData =
+    [
+        ['background_0', ['Background', ['../structBackground.html', 1, '']]]
+    ];
