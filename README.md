@@ -14,9 +14,9 @@ To build the game, follow these steps:
 
 ## Usage
 After building the game, you can run it with:
-    ```bash
+```bash
     ./NIGHTMARE
-    ```
+```
 <p align="center">
  <img src="/IMG//NTEMP.jpg">
 </p>
